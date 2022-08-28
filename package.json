@@ -1,0 +1,24 @@
+{
+  "name": "skillsharebootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "node-sass -w main.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knightch/Skill-Share-Bootstrap-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Knightch/Skill-Share-Bootstrap-course/issues"
+  },
+  "homepage": "https://github.com/Knightch/Skill-Share-Bootstrap-course#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "node-sass": "^7.0.1"
+  }
+}
